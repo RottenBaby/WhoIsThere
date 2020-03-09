@@ -1,9 +1,10 @@
 from scapy import *
 import argparse
-
+import os
 from scapy.layers.l2 import Ether, ARP
 from scapy.sendrecv import srp1
 
+os.system("clear")
 print("""
      Who's There?
             ,--.!,  
