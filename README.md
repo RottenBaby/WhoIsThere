@@ -11,4 +11,4 @@ WhoIsThere is a network scanner, useful and minimal
 installation
 
 - it is necessary to have the python scapy module
-  pip install --pre scapy[complete]
+  - sudo pip install --pre scapy[complete]
